@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I'm currently working on **Undisclosed Game Development Project**.<br><br>🌱 I'm currently learning **3D Animation, UI & UX Design**.
+🔭 I'm currently working on **Project Echo Game Development Project**.<br><br>🌱 I'm currently learning **3D Animation, UI & UX Design**.
 
   
   
