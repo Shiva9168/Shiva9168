@@ -61,7 +61,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://cdn.discordapp.com/attachments/976749076341198861/1116564683864944740/UE_Logo_icon-only_white.svg" alt="Unreal" height="50" /></a> 
+<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Shiva9168/didactic-sniffle/main/UE_Logo_icon-only_white.svg?token=GHSAT0AAAAAACNI3AET4NIMXJM2OCYUOXFYZPTFRDQ" alt="Unreal" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -74,7 +74,7 @@
 
 ## Portfolio
 
-You can check out my work and projects by visiting [My Portfolio Website](https://shiva9168.github.io/Portfolio-Website/).
+You can check out my work and projects by visiting [My Portfolio Website](https://shivadev.com/).
 
 
 
@@ -90,7 +90,7 @@ You can check out my work and projects by visiting [My Portfolio Website](https:
 <a href="https://instagram.com/shivas_gamingzone" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sai-rishik-k-226781271" target="_blank">
+<a href="https://www.linkedin.com/in/shiva-k-226781271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@shivasgamingzone" target="_blank">
